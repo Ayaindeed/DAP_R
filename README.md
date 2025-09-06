@@ -1,4 +1,4 @@
-# Sales Method Analysis - Pens and Printers
+# Sales Method Analysis - Pens & Printers /DataCamp Certif
 
 A comprehensive data analysis project comparing the effectiveness of different sales methods for a new office stationery product launch.
 
