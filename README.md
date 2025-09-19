@@ -39,7 +39,6 @@ Which sales method is most effective for new product launches?
 
 - [`product_sales_analysis copy.ipynb`](product_sales_analysis%20copy.ipynb) - Complete analysis notebook
 - [`product_sales.csv`](product_sales.csv) - Dataset
-- [`presentation_guide.md`](presentation_guide.md) - Presentation guidelines
 
 ## Business Impact
 
