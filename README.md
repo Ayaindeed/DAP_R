@@ -35,11 +35,6 @@ Which sales method is most effective for new product launches?
 - Most resource-efficient approach
 - Strongest growth momentum
 
-## 📁 Files
-
-- [`product_sales_analysis copy.ipynb`](product_sales_analysis%20copy.ipynb) - Complete analysis notebook
-- [`product_sales.csv`](product_sales.csv) - Dataset
-
 ## Business Impact
 
 Moving 50% of customers to Email + Call method could generate **$2.8M additional annual revenue**.
